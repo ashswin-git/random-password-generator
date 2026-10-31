@@ -1,5 +1,8 @@
 # Random Password Generator
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
 Day 1 of a 100-day lightweight Python project series.
 
 A small command-line tool that creates strong, random passwords using Python's `secrets` module (cryptographically secure).
@@ -12,6 +15,14 @@ A small command-line tool that creates strong, random passwords using Python's `
 - Guarantees at least one character from each selected set
 - Optional shell-friendly symbol set
 - Zero third-party dependencies
+
+## Built with
+
+- **Language:** Python 3.10+
+- **Standard library:** `secrets`, `string`, `argparse`
+- No third-party packages
+
+Part of the [daily-code](https://github.com/ashswin-git/daily-code) 100-day series (Day 1).
 
 ## Installation
 
@@ -58,4 +69,4 @@ aR7!uT4#jK9$eL2%wP6x
 
 ## License
 
-MIT
+No license file has been added yet.
